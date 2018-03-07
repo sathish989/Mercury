@@ -1,2 +1,2 @@
 # Mercury
-this is a demo seession
+this is a demo session
